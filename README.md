@@ -21,3 +21,5 @@
 ### [Flowchart](https://henrichris.github.io/flowchart)
 
 ### [MNIST](https://henrichris.github.io/mnist)
+
+### [Lua Compiler](https://github.com/HenriChris/lua-interpreter)
