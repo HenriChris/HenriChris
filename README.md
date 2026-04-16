@@ -1,4 +1,6 @@
-## Tech Stack:
+## About Me
+
+## Tech Stack
 
 ### Languages:
 
@@ -11,3 +13,6 @@
 ### Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,mysql,postgres,sqlite,nginx,figma,postman,arduino)](https://skillicons.dev)
+
+## Highlighted Projects
+
