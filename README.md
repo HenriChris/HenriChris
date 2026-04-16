@@ -17,3 +17,7 @@
 ## Highlighted Projects
 
 ### [Portfolio](https://henrichris.github.io)
+
+### [Flowchart](https://henrichris.github.io/flowchart)
+
+### [MNIST](https://henrichris.github.io/mnist)
