@@ -16,4 +16,4 @@
 
 ## Highlighted Projects
 
-### [![Portfolio](https://henrichris.github.io)](Portfolio)
+### [Portfolio](https://henrichris.github.io)
