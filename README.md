@@ -12,7 +12,7 @@
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,mysql,postgres,sqlite,nginx,figma,postman,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,linux,mysql,postgres,sqlite,nginx,figma,postman,arduino)](https://skillicons.dev)
 
 ## Highlighted Projects
 
